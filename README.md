@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [2580-circular-sentence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2580-circular-sentence) |
 ## Linked List
 |  |
 | ------- |
