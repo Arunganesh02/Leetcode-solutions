@@ -3,16 +3,10 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        row = 0
-        column= 0
-        k = 0
-        while k<len(matrix):
-            while row<len(matrix):
+        for column in range(len(matrix)):
+            for row in range(column,len(matrix)):
                 matrix[row][column],matrix[column][row] = matrix[column][row],matrix[row][column]
                 row+=1
-            k+=1
-            row = k
-            column+=1
         for row in range(len(matrix)):
             col1 = 0
             col2 = len(matrix[row])-1
