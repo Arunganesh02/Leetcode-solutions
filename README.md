@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0496-next-greater-element-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0496-next-greater-element-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
@@ -51,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0048-rotate-image) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
