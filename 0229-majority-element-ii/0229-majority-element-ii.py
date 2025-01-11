@@ -1,15 +1,35 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
-        d = {}
-        li = []
-        ti = math.floor(len(nums)/3)
-        print(ti)
+        maj1 = maj2 = c1 = c2 = 0
+
         for i in nums:
-            if i not in d:
-                d[i] = 1
+            if i == maj1:
+                c1 += 1
+            elif i == maj2:
+                c2 += 1
+            elif c1 == 0:
+                maj1 = i
+                c1 += 1
+            elif c2 == 0:
+                maj2 = i
+                c2 += 1
             else:
-                d[i] += 1
-        for i in d:
-            if d[i] > ti:
-                li.append(i)
-        return li
+                c1 -= 1
+                c2 -= 1
+        
+        c1 = c2 = 0
+
+        for i in nums:
+            if i == maj1:
+                c1 += 1
+            elif i == maj2:
+                c2 += 1
+        
+        ans = []
+        if c1 > len(nums) // 3:
+            ans.append(maj1)
+        if c2 > len(nums) // 3:
+            ans.append(maj2)
+        
+        return ans
+            
