@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
