@@ -17,10 +17,11 @@ public:
         queue<TreeNode*> que;
         vector<vector<int>> ans;
         TreeNode* node;
+        vector<int> ve;
         que.push(root);
         while(!que.empty()){
             int l = que.size();
-            vector<int> ve;
+            ve = {};
             for (int i = 0 ; i<l; i++){
                 node = que.front();
                 que.pop();
@@ -28,8 +29,7 @@ public:
                 if (node->left) que.push(node->left);
                 if (node->right) que.push(node->right);
             }
-            ans.push_back(ve);
-            
+            ans.push_back(ve);  
         }
         return ans;
     }
