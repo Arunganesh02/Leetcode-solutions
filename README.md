@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0290-word-pattern) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2580-circular-sentence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2580-circular-sentence) |
