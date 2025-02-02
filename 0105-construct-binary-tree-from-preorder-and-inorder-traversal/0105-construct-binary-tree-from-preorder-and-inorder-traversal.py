@@ -16,8 +16,10 @@ class Solution:
             if lel and ler:
                 head.left = self.buildTree(preorder[1:1+lel] , inorder[:inde])
                 head.right = self.buildTree(preorder[1+lel:], inorder[inde+1:])
-            if lel:
+            elif lel:
                 head.left = self.buildTree(preorder[1:1+lel] , inorder[:inde])
-            if ler:
+            elif ler:
                 head.right = self.buildTree(preorder[1+lel:], inorder[inde+1:])
             return head
+        else:
+            return None
