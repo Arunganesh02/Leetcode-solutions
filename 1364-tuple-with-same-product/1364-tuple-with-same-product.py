@@ -9,7 +9,5 @@ class Solution:
                     d[nums[i] * nums[j]] += 2
         c = 0
         for i in d:
-            n = d[i]
-            c += n * (n-2)  
-        
+            c += d[i] * (d[i]-2)     
         return c
