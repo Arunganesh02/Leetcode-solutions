@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Divide and Conquer
 |  |
