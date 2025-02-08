@@ -12,16 +12,18 @@ class NumberContainers:
         else:
             if self.indices[index] != number:
                 self.numbers[self.indices[index]].remove(index)
+                if not self.numbers[self.indices[index]]:
+                    del self.numbers[self.indices[index]]
                 self.indices[index] = number
 
         self.numbers[number].add(index)
-        
+
     def find(self, number: int) -> int:
 
         if number not in self.numbers:
             return -1
         else:
-            if len(self.numbers[number]) == 0: return -1
+            if not self.numbers[number]: return -1
             return self.numbers[number][0]
         
 
