@@ -4,11 +4,11 @@ class Solution:
         d = {}
         su = 0
         for i in range(len(nums)):
-            if i-nums[i] not in d:
+            if nums[i] - i not in d:
                 c += su
-                d[i-nums[i]] = 1
+                d[nums[i] - i] = 1
             else:
-                c += su - d[i-nums[i]]
-                d[i-nums[i]] += 1
+                c += su - d[nums[i] - i]
+                d[nums[i] - i] += 1
             su += 1
         return c
