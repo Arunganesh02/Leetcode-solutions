@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
