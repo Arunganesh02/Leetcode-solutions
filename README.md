@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -102,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0933-increasing-order-search-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0933-increasing-order-search-tree) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
