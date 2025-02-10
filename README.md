@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0941-sort-array-by-parity](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1127-last-stone-weight](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0941-sort-array-by-parity](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0941-sort-array-by-parity](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
