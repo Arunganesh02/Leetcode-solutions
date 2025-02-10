@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2434-design-a-number-container-system](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3567-convert-date-to-binary](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 ## Recursion
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Divide and Conquer
 |  |
@@ -340,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2434-design-a-number-container-system) |
+## Number Theory
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
