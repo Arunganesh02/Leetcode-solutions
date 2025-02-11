@@ -10,13 +10,32 @@ public:
         // }
         // return 0;
 
-        for (auto i: nums){
-            if (i<0) i= i*-1;
-            if (nums[i-1] < 0) return i;
-            else{
-                nums[i-1] *= -1;
+        // for (auto i: nums){
+        //     if (i<0) i= i*-1;
+        //     if (nums[i-1] < 0) return i;
+        //     else{
+        //         nums[i-1] *= -1;
+        //     }
+        // }
+        // return 0;
+
+        int slow = nums[0];
+        int fast = nums[0];
+        while (true){
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+            if (slow == fast){
+                break;
             }
         }
-        return 0;
+        int pt = nums[0];
+        while(slow != pt){
+            slow = nums[slow];
+            pt = nums[pt];
+        }
+        
+
+        return pt;
+
     }
 };
