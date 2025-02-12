@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Trie
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [2434-design-a-number-container-system](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
