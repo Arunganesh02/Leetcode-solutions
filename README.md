@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1127-last-stone-weight](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2434-design-a-number-container-system](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Quickselect
