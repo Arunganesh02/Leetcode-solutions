@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3567-convert-date-to-binary](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 ## Recursion
 |  |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Binary Search Tree
 |  |
 | ------- |
