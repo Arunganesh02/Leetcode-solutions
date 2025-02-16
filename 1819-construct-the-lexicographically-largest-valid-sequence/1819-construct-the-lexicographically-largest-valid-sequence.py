@@ -1,25 +1,75 @@
 class Solution:
-    def constructDistancedSequence(self, n: int) -> List[int]:
-        return [
-        [],
-        [1],
-        [2,1,2],
-        [3,1,2,3,2],
-        [4,2,3,2,4,3,1],
-        [5,3,1,4,3,5,2,4,2],
-        [6,4,2,5,2,4,6,3,5,1,3],
-        [7,5,3,6,4,3,5,7,4,6,2,1,2],
-        [8,6,4,2,7,2,4,6,8,5,3,7,1,3,5],
-        [9,7,5,3,8,6,3,5,7,9,4,6,8,2,4,2,1],
-        [10,8,6,9,3,1,7,3,6,8,10,5,9,7,4,2,5,2,4],
-        [11,9,10,6,4,1,7,8,4,6,9,11,10,7,5,8,2,3,2,5,3],
-        [12,10,11,7,5,3,8,9,3,5,7,10,12,11,8,6,9,2,4,2,1,6,4],
-        [13,11,12,8,6,4,9,10,1,4,6,8,11,13,12,9,7,10,3,5,2,3,2,7,5],
-        [14,12,13,9,7,11,4,1,10,8,4,7,9,12,14,13,11,8,10,6,3,5,2,3,2,6,5],
-        [15,13,14,10,8,12,5,3,11,9,3,5,8,10,13,15,14,12,9,11,7,4,6,1,2,4,2,7,6],
-        [16,14,15,11,9,13,6,4,12,10,1,4,6,9,11,14,16,15,13,10,12,8,5,7,2,3,2,5,3,8,7],
-        [17,15,16,12,10,14,7,5,3,13,11,3,5,7,10,12,15,17,16,14,9,11,13,8,6,2,1,2,4,9,6,8,4],
-        [18,16,17,13,11,15,8,14,4,2,12,2,4,10,8,11,13,16,18,17,15,14,12,10,9,7,5,3,6,1,3,5,7,9,6],
-        [19,17,18,14,12,16,9,15,6,3,13,1,3,11,6,9,12,14,17,19,18,16,15,13,11,10,8,4,5,7,2,4,2,5,8,10,7],
-        [20,18,19,15,13,17,10,16,7,5,3,14,12,3,5,7,10,13,15,18,20,19,17,16,12,14,11,9,4,6,8,2,4,2,1,6,9,11,8]
-        ][n]
+    def constructDistancedSequence(self, target_number: int) -> List[int]:
+        # Initialize the result sequence with size 2*n - 1 filled with 0s
+        result_sequence = [0] * (target_number * 2 - 1)
+
+        # Keep track of which numbers are already placed in the sequence
+        is_number_used = [False] * (target_number + 1)
+
+        # Start recursive backtracking to construct the sequence
+        self.find_lexicographically_largest_sequence(
+            0, result_sequence, is_number_used, target_number
+        )
+
+        return result_sequence
+
+    # Recursive function to generate the desired sequence
+    def find_lexicographically_largest_sequence(
+        self, current_index, result_sequence, is_number_used, target_number
+    ):
+        # If we have filled all positions, return true indicating success
+        if current_index == len(result_sequence):
+            return True
+
+        # If the current position is already filled, move to the next index
+        if result_sequence[current_index] != 0:
+            return self.find_lexicographically_largest_sequence(
+                current_index + 1,
+                result_sequence,
+                is_number_used,
+                target_number,
+            )
+
+        # Attempt to place numbers from targetNumber to 1 for a
+        # lexicographically largest result
+        for number_to_place in range(target_number, 0, -1):
+            if is_number_used[number_to_place]:
+                continue
+
+            is_number_used[number_to_place] = True
+            result_sequence[current_index] = number_to_place
+
+            # If placing number 1, move to the next index directly
+            if number_to_place == 1:
+                if self.find_lexicographically_largest_sequence(
+                    current_index + 1,
+                    result_sequence,
+                    is_number_used,
+                    target_number,
+                ):
+                    return True
+            # Place larger numbers at two positions if valid
+            elif (
+                current_index + number_to_place < len(result_sequence)
+                and result_sequence[current_index + number_to_place] == 0
+            ):
+                result_sequence[current_index + number_to_place] = (
+                    number_to_place
+                )
+
+                if self.find_lexicographically_largest_sequence(
+                    current_index + 1,
+                    result_sequence,
+                    is_number_used,
+                    target_number,
+                ):
+                    return True
+
+                # Undo the placement for backtracking
+                result_sequence[current_index + number_to_place] = 0
+
+            # Undo current placement and mark the number as unused
+            result_sequence[current_index] = 0
+            is_number_used[number_to_place] = False
+
+        return False
