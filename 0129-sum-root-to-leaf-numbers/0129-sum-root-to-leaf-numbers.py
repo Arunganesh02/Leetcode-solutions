@@ -6,17 +6,15 @@
 #         self.right = right
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
-        li = []
+        li = 0
         def traverse(root , st):
             nonlocal li
             if not root:return 
             if not root.left and not root.right:
-                li.append(st+str(root.val))
+                li += (st*10)+root.val
                 return 
-            traverse(root.left , st+str(root.val))
-            traverse(root.right , st+str(root.val))
-        traverse(root, '')
-        su = 0
-        for i in li:
-            su += int(i)
-        return su
+            traverse(root.left , (st*10)+root.val)
+            traverse(root.right , (st*10)+root.val)
+
+        traverse(root, 0)
+        return li
