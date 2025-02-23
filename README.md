@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
