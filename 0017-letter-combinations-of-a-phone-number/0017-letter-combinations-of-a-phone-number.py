@@ -7,16 +7,16 @@ class Solution:
             return []
         for i in digits:
             nums.append(d[int(i)])
-        def backtrack(li , seen , start):
+        def backtrack(li , start):
             nonlocal digits , ans , nums
-            
+
             if len(li) == len(digits):
                 ans.append(li)
                 return 
 
             for i in range(start , len(nums)):
-                if i not in seen:
-                    for j in nums[i]:
-                        backtrack(li + j , seen + [i] , i+1)
-        backtrack('' , [],0)
+                for j in nums[i]:
+                    backtrack(li + j , i+1)
+
+        backtrack('',0)
         return ans
