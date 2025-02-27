@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0290-word-pattern) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0101-symmetric-tree) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
