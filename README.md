@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Counting
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
