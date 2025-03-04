@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
