@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3034-points-that-intersect-with-cars](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [2103-find-all-groups-of-farmland](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2103-find-all-groups-of-farmland) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2103-find-all-groups-of-farmland) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2103-find-all-groups-of-farmland) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -542,4 +546,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
