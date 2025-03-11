@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2103-find-all-groups-of-farmland](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2103-find-all-groups-of-farmland) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2227-sum-of-subarray-ranges](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [2103-find-all-groups-of-farmland](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2103-find-all-groups-of-farmland) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2103-find-all-groups-of-farmland](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2103-find-all-groups-of-farmland) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2103-find-all-groups-of-farmland](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2103-find-all-groups-of-farmland) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Search
 |  |
