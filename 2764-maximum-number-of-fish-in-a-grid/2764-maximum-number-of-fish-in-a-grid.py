@@ -20,7 +20,7 @@ class Solution:
         seen = set()
         for i in range(len(grid)):
             for j in range(len(grid[0])):
-                if grid[i][j] > 0:
+                if grid[i][j] > 0 and (i,j) not in seen:
                     su = 0
                     traverse(i , j)
                     seen.add((i , j))
