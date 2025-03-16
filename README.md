@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 | [3463-alternating-groups-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3463-alternating-groups-i) |
+| [3639-zero-array-transformation-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [3034-points-that-intersect-with-cars](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3034-points-that-intersect-with-cars) |
+| [3639-zero-array-transformation-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 ## Iterator
 |  |
 | ------- |
