@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 | [3463-alternating-groups-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3463-alternating-groups-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3463-alternating-groups-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
 | ------- |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [3034-points-that-intersect-with-cars](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3034-points-that-intersect-with-cars) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 ## Iterator
 |  |
@@ -561,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
