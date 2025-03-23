@@ -12,3 +12,6 @@ class Solution:
             else:
                 l = mid +1
         return l
+        # for i in range(n+1):
+        #     if isBadVersion(i):
+        #         return i
