@@ -20,8 +20,11 @@ class Solution:
             if k == -1:
                 indi = i
                 break
+                
         li = nums[indi+1:]
         c = li.count(maj)
+
         if c <= len(li)//2:
             return -1
+
         else: return indi
