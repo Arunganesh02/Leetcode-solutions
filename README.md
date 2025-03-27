@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3034-points-that-intersect-with-cars](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3034-points-that-intersect-with-cars](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3034-points-that-intersect-with-cars) |
 ## String
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 ## Trie
 |  |
