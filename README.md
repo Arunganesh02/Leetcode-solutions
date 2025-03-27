@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
