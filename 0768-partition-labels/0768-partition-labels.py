@@ -13,4 +13,5 @@ class Solution:
             if i == r:
                 ans.append((r - st)+1)
                 st = i+1
+                i = r+1
         return ans
