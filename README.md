@@ -604,4 +604,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [2041-the-latest-login-in-2020](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2041-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
