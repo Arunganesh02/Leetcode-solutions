@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2103-find-all-groups-of-farmland](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2103-find-all-groups-of-farmland) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Binary Search Tree
@@ -623,4 +627,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2041-the-latest-login-in-2020](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2041-the-latest-login-in-2020) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
