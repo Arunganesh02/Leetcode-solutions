@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [2041-the-latest-login-in-2020](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2041-the-latest-login-in-2020) |
 ## Combinatorics
 |  |
