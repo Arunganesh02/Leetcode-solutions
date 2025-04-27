@@ -1,12 +1,14 @@
 class Solution:
     def countSubarrays(self, nums: List[int]) -> int:
         count = 0 
-        l = 0
-        r = 3
-        while r<=len(nums):
-            sub = nums[l:r]
-            if sub[0] + sub[2] == sub[1]/2:
+        left = nums[0]
+        mid = nums[1]
+        r = 2
+        while r<len(nums):
+            right = nums[r]
+            if left + right == mid/2:
                 count += 1
-            l += 1
-            r += 1
+            left = mid
+            mid = right
+            r+= 1
         return count
