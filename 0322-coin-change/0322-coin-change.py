@@ -14,26 +14,28 @@ class Solution:
         #     dp[indi][su] = min(nottake , take)
         #     return min(nottake , take)
 
-        dp = [[-1 for i in range(amount+1)] for j in range(len(coins))]
-
+        # dp = [[-1 for i in range(amount+1)] for j in range(len(coins))]
+        dp = [-1 for i in range(amount+1)]
+        temp = [-1 for i in range(amount+1)]
         for i in range(amount+1):
             if i%coins[0] == 0 :
-                dp[0][i] = i//coins[0]
+                temp[i] = i//coins[0]
             else:
-                dp[0][i] = float('inf')
+                temp[i] = float('inf')
 
         for i in range(1,len(coins)):
             for j in range(amount+1):
-                nottake = dp[i-1][j]
+                nottake = temp[j]
                 take = float('inf')
                 if coins[i] <= j:
-                    take = 1+dp[i][j-coins[i]]
-                dp[i][j] = min(nottake,take)
-                
+                    take = 1+dp[j-coins[i]]
+                dp[j] = min(nottake,take)
+            temp = dp
+
         # ans = traverse(len(coins)-1 , amount)
         # print(dp)
-        if dp[len(coins)-1][amount] == float('inf') : return -1
-        return dp[len(coins)-1][amount]
+        if temp[amount] == float('inf') : return -1
+        return temp[amount]
         # if ans == float('inf') : return -1
         # else: return ans
         # return traverse(len(coins)-1 , amount)
