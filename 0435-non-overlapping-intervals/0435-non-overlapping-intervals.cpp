@@ -2,16 +2,16 @@ class Solution {
 public:
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
         sort(intervals.begin(), intervals.end());
-        vector<vector<int>> ans;
-        ans.push_back(intervals[0]);
+        int ans;
+        ans= intervals[0][1];
         int rem = 0;
         for(int i =1; i<intervals.size();i++){
-            if (intervals[i][0]<ans[ans.size()-1][1]){
+            if (intervals[i][0]<ans){
                 rem ++;
-                ans[ans.size()-1][1] = min(ans[ans.size()-1][1] , intervals[i][1]);
+                ans = min(ans , intervals[i][1]);
             }
             else{
-                ans.push_back(intervals[i]);
+                ans = intervals[i][1];
             }
         }
         return rem;
