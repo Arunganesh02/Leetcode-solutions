@@ -17,7 +17,7 @@ public:
             heap.pop();
             count+= 1;
             if (su <= half){
-                break;
+                return count;
             }
         }
         return count;
