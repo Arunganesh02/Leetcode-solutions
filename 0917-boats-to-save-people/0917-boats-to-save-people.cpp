@@ -11,11 +11,8 @@ public:
                 l ++;
             }
             else{
-                if (people[r] <= limit ){
-                    boats ++;
-                    r --;
-                }
-                else r--;
+                r--;
+                boats ++;
             }
         }
         return boats;
