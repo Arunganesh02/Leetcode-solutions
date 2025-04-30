@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1127-last-stone-weight](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2434-design-a-number-container-system](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2434-design-a-number-container-system) |
@@ -610,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
