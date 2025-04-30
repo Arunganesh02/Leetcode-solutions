@@ -4,7 +4,6 @@ class Solution:
         def traverse(indi , su):
             if su == 0 : return 1
             if indi ==0 :
-                # if coins[indi] == 1 : return 1 
                 if su % coins[indi] == 0 : return 1
                 else: return 0
             take = nottake = 0
