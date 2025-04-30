@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
