@@ -35,9 +35,9 @@ public:
         for (char co = '1' ; co<='9'; co++){
 
             if (isValidSudoku(board , i , j , co)){
-                            board[i][j] = co;
+                board[i][j] = co;
                 if (solve(board , i , j+1)) return true;
-                            board[i][j] = '.';
+                board[i][j] = '.';
             }
 
         }
