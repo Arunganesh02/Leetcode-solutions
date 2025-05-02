@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0047-permutations-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0146-lru-cache) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0047-permutations-ii) |
