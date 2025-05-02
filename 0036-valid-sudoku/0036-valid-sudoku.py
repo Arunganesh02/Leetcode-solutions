@@ -1,10 +1,13 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        sub = [[],[],[],[],[],[],[],[],[]]
+        sub = [[],[],[],[],[],[],[],[],[]]                                    
         for i in range(9):
+            se = set()
             for j in range(9):
-                
-                if board[i][j]!=".":
+                if board[i][j]!= ".":
+                    if board[i][j] in se:
+                        return False
+                    se.add(board[i][j])
                     num = int(board[i][j])
                     if i<3:
                         if j<3:
@@ -26,14 +29,7 @@ class Solution:
                         elif j<6:
                             sub[7].append(num)
                         elif j<9:
-                            sub[8].append(num)                        
-        for i in range(9):
-            se = set()
-            for j in range(9):
-                if board[i][j]!= ".":
-                    if board[i][j] in se:
-                        return False
-                    se.add(board[i][j])
+                            sub[8].append(num) 
 
         m = len(board[0])
         for i in range(9):
