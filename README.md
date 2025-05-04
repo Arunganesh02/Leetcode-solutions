@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0290-word-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
