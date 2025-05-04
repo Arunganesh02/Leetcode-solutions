@@ -9,11 +9,12 @@ public:
         }
 
         if (dp[indi1][indi2] != -1) return dp[indi1][indi2];
-
-        int count ;
+        int count;
 
         if (text1[indi1] == text2[indi2]) count = 1 + traverse(indi1-1 , indi2 - 1 , text1 , text2 , dp);
-        else count = max(traverse(indi1-1 , indi2 , text1 , text2 , dp ) ,traverse(indi1 , indi2-1 , text1 , text2 , dp)) ;
+
+        else 
+        count = max(traverse(indi1-1 , indi2, text1, text2,dp),traverse(indi1 , indi2-1 , text1 , text2 , dp)) ;
 
         return dp[indi1][indi2] = count;
     }
