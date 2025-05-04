@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0967-minimum-falling-path-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [0994-prison-cells-after-n-days](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0994-prison-cells-after-n-days) |
 | [1019-squares-of-a-sorted-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1022-unique-paths-iii) |
 | [1028-interval-list-intersections](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1028-interval-list-intersections) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0768-partition-labels) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0994-prison-cells-after-n-days](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0994-prison-cells-after-n-days) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0994-prison-cells-after-n-days](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0994-prison-cells-after-n-days) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0994-prison-cells-after-n-days](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0994-prison-cells-after-n-days) |
 | [1022-unique-paths-iii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1022-unique-paths-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
