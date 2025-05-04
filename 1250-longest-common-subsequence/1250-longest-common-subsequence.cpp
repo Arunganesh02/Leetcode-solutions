@@ -19,8 +19,21 @@ public:
         return dp[indi1][indi2] = count;
     }
     int longestCommonSubsequence(string text1, string text2) {
-        vector<vector<int>> dp(text1.size() , vector<int> (text2.size(),-1));
-
-        return traverse(text1.size()-1 , text2.size()-1 , text1 , text2 , dp);
+        vector<vector<int>> dp(text1.size()+1 , vector<int> (text2.size()+1,0));
+        int count ; 
+        // if (text1[0] == text2[0]) dp[0][0] = 1;
+        for (int i = 1 ; i<=text1.size() ; i++){
+            for (int j =1;j<=text2.size() ; j++){
+                if (text1[i-1] == text2[j-1]){
+                    count = 1 + dp[i-1][j-1];
+                }
+                else{
+                    count = max(dp[i-1][j], dp[i][j-1]);
+                }
+                dp[i][j] = count;
+            }
+        }
+        return dp[text1.size()][text2.size()];
+        // return traverse(text1.size()-1 , text2.size()-1 , text1 , text2 , dp);
     }
 };
