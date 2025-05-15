@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3034-points-that-intersect-with-cars](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3034-points-that-intersect-with-cars) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3567-convert-date-to-binary) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Counting
 |  |
 | ------- |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Quickselect
 |  |
 | ------- |
