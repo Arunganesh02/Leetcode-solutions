@@ -17,4 +17,5 @@ class Solution:
                 return nottake
 
         dp = [-1 for i in range(len(words)+1)]
-        return list(reversed(traverse(len(words)-1 , [])))
+    
+        return traverse(len(words)-1 , [])[::-1]
