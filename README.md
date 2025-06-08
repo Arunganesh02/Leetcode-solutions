@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2262-solving-questions-with-brainpower](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Counting
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Memoization
 |  |
@@ -748,4 +750,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
