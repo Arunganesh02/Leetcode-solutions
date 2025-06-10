@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2103-find-all-groups-of-farmland](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2103-find-all-groups-of-farmland) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2103-find-all-groups-of-farmland](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2103-find-all-groups-of-farmland) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Memoization
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Queue
 |  |
