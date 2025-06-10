@@ -34,6 +34,10 @@ class Solution:
             for j in range(len(isConnected)):
                 if isConnected[i][j] == 1:
                     ds.unionBySize(i , j)
-        for i in range(len(ds.parent)):
-            ds.findupar(i)
-        return len(set(ds.parent[:len(isConnected)]))
+                    # ds.findupar(i)
+                    # ds.findupar(j)
+            # ds.findupar(i)
+        c = 0
+        for i in range(len(isConnected)):
+            if ds.findupar(i) == i : c+=1 
+        return c
