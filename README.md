@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0917-boats-to-save-people](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0721-accounts-merge](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0768-partition-labels) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0721-accounts-merge](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0917-boats-to-save-people](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -601,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -744,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Queue
