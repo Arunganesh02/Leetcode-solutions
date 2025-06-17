@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0967-minimum-falling-path-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [0978-valid-mountain-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0978-valid-mountain-array) |
 | [0994-prison-cells-after-n-days](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0994-prison-cells-after-n-days) |
 | [1019-squares-of-a-sorted-array](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/1022-unique-paths-iii) |
