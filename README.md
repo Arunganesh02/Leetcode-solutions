@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0127-word-ladder) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0062-unique-paths) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0134-gas-station) |
