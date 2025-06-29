@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
