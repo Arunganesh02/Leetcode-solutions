@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0312-burst-balloons](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0312-burst-balloons](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Arunganesh02/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
