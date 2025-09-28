@@ -13,17 +13,15 @@ class Solution:
                 if bef<nums[i] and right[i+1] == True:
                     right[i]= True
                 else:
-                    right[i] = False
+                    break
             bef = nums[i]
         leftsum = 0
         ans_minimum = float('inf')
         left_bef = -1
-        # print(right , rightsum)
         for i in range(len(nums)-1 ):
             leftsum += nums[i]
             if left_bef == -1 or nums[i] > left_bef:
                 if right[i+1] == True:
-                    # print(leftsum , rightsum[i+1] , i)
                     ans_minimum = min(abs(leftsum - rightsum[i+1]) , ans_minimum)
             else:
                 break    
